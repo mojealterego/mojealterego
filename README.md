@@ -111,6 +111,18 @@
 
 ---
 
+
+---
+
+## 03A · VISUAL INDEX
+
+<table>
+<tr><td><img src="./assets/category-ai-agents.svg" alt="AI & Agents" width="100%"></td><td><img src="./assets/category-mcp-infrastructure.svg" alt="MCP & Infrastructure" width="100%"></td></tr>
+<tr><td><img src="./assets/category-mobile-android.svg" alt="Mobile & Android" width="100%"></td><td><img src="./assets/category-telecom.svg" alt="Telecom / 4G / 5G" width="100%"></td></tr>
+<tr><td><img src="./assets/category-research.svg" alt="Research & R&D" width="100%"></td><td><img src="./assets/category-photography-art.svg" alt="Photography & Art" width="100%"></td></tr>
+<tr><td><img src="./assets/category-books-publishing.svg" alt="Books & Publishing" width="100%"></td><td><img src="./assets/category-tools-experiments.svg" alt="Tools & Experiments" width="100%"></td></tr>
+</table>
+
 ## 04 · TECHNOLOGY
 
 `Python` · `Kotlin` · `Android` · `Linux` · `Docker` · `Open5GS` · `IMS` · `eBPF` · `PostgreSQL` · `React` · `Next.js` · `OpenAI` · `MCP` · `GitHub Actions`
