@@ -4,152 +4,217 @@
 
 # MOJEALTEREGO
 
-### FOTOGRAF · TWÓRCA AI · INŻYNIER · BADACZ · OBSERWATOR
+### ANDRZEJ MIKULSKI · FOTOGRAF · FOTOREPORTER · AUTOR · TWÓRCA
 
 **Obserwuję. Tworzę. Eksperymentuję.**
 
-[WEBSITE](https://mojealterego.github.io/) · [REPOSITORIES](https://github.com/mojealterego?tab=repositories)
+[WEBSITE](https://mojealterego.github.io/) · [ALL REPOSITORIES](https://github.com/mojealterego?tab=repositories)
 
 </div>
 
 ---
 
-## 01 · KIM JESTEM
+## 01 · O MNIE
 
-Łączę fotografię dokumentalną, opowiadanie historii, technologię i eksperyment.
+Urodzony w Warszawie fotoreporter i autor książek, od 2023 roku mieszkający i tworzący na Śląsku Cieszyńskim. W życiu zawodowym łączę pracę górnika z działalnością fotoreporterską dla Agencji Fotograficznej REPORTER. Pasja do obrazu narodziła się w dzieciństwie, a z czasem rozszerzyła się o film, informatykę i eksperymenty z nowymi technologiami.
 
-**MojeAlterego** to ekosystem projektów obejmujący sztuczną inteligencję, agentów, MCP, Android, prywatne sieci, badania, fotografię, film i publikowanie.
+Głównym obszarem mojej twórczości jest fotografia dokumentująca życie codzienne oraz portret. Publikuję w prasie codziennej, tygodnikach i miesięcznikach. Założyłem i administruję społecznością „Fotografia Uliczna”, skupiającą ponad 75 tysięcy osób. Pełnię również funkcję jurora na portalu Flog.pl.
+
+Mój dorobek obejmuje 16 wystaw indywidualnych i udział w ponad 300 wystawach zbiorowych w ponad 40 krajach. Moje prace były wyróżniane w konkursach krajowych i międzynarodowych; wybrane znajdują się w zbiorach Artystycznego Dziedzictwa FIAP.
+
+### Tytuły i afiliacje
+
+- 2017 — Artysta Fotograf RP (AFRP)
+- 2019 — Artiste FIAP (AFIAP)
+- 2020 — Excellence FIAP (EFIAP)
+- Członek rzeczywisty Fotoklubu RP
+- Członek zarządu Cieszyńskiego Towarzystwa Fotograficznego
+- Członek Stowarzyszenia Twórców Kultury i Sztuki PLAMA (Łęczna)
+- Członek Fotoferia Club
+
+### Wybrane wyróżnienia
+
+- 2023 — Złoty Medal „Za Fotograficzną Twórczość”
+- 2019 — Srebrny Medal „Za Zasługi dla Polskiej Fotografii”
+- 2018 — Brązowy Medal „Za Fotograficzną Twórczość”
+- Człowiek Roku Powiatu Cieszyńskiego (2023, 2024)
+- Człowiek Roku Powiatu Łęczyńskiego (2017, 2018)
+
+### Książki i projekty autorskie
+
+*Człowiek Roku* · Tetralogia CCR · *Światło, które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*.
 
 > „Rzeczywistość to dopiero początek…”
 
 ---
 
-## 02 · OBSZARY
+## 02 · MOJE ZDJĘCIE
 
-| | Obszar | Zakres |
-|---|---|---|
-| 🧠 | **AI & AGENTS** | agenci AI, systemy wieloagentowe, LLM, automatyzacja |
-| 🔌 | **MCP & INFRASTRUCTURE** | serwery, integracje, narzędzia i workflow |
-| 📱 | **MOBILE & ANDROID** | Android, ADB, aplikacje i lokalne AI |
-| 📡 | **TELECOM / 4G / 5G** | prywatne LTE/5G, Open5GS, IMS, eBPF |
-| 🔬 | **RESEARCH & R&D** | prototypy, wiedza techniczna, eksperymenty |
-| 📷 | **PHOTOGRAPHY & ART** | fotografia dokumentalna, portret, obraz |
-| 📚 | **BOOKS & PUBLISHING** | książki, światy narracyjne, projekty wydawnicze |
-| ⚙️ | **TOOLS & EXPERIMENTS** | biblioteki, skrypty, narzędzia i POC |
+> Zdjęcie portretowe autora zostało przekazane w rozmowie. Nie zostało jeszcze zapisane jako plik w repozytorium, dlatego nie osadzam fikcyjnej ścieżki. Po dodaniu fotografii do `assets/andrzej-mikulski.jpg` można wstawić ją tutaj:
+>
+> `![Andrzej Mikulski](./assets/andrzej-mikulski.jpg)`
 
 ---
 
-## 03 · SELECTED PROJECTS
+## 03 · OBSZARY
+
+| Obszar | Zakres |
+|---|---|
+| AI & AGENTS | Agenci AI, systemy wieloagentowe, LLM, automatyzacja |
+| MCP & INFRASTRUCTURE | Serwery, integracje, narzędzia i workflow |
+| MOBILE & ANDROID | Android, ADB, aplikacje i lokalne AI |
+| TELECOM / 4G / 5G | Prywatne LTE/5G, Open5GS, IMS, eBPF |
+| RESEARCH & R&D | Prototypy, wiedza techniczna, eksperymenty |
+| PHOTOGRAPHY & ART | Fotografia dokumentalna, portret, obraz |
+| BOOKS & PUBLISHING | Książki, światy narracyjne, projekty wydawnicze |
+| TOOLS & EXPERIMENTS | Biblioteki, skrypty, narzędzia i POC |
+
+---
+
+## 04 · WYBRANE PROJEKTY
 
 ### MINI-MOBILE-7
-
-<img src="./assets/project-mini-mobile-7.svg" alt="MINI-MOBILE-7" width="100%">
-
-**Private LTE/5G laboratory and private cellular network blueprint for up to 7 controlled devices.**
-
-[Repository](https://github.com/mojealterego/mini-mobile-7)
-
----
+Prywatne laboratorium LTE/5G i sieć komórkowa dla kontrolowanych urządzeń.
+[Repozytorium](https://github.com/mojealterego/mini-mobile-7)
 
 ### JARVIS 2.0
-
-<img src="./assets/project-jarvis-2.svg" alt="JARVIS 2.0" width="100%">
-
-**Real Android AI assistant project with mobile client, authenticated backend and EAS build pipeline.**
-
-[Repository](https://github.com/mojealterego/JARVIS-2.0)
-
----
+Projekt asystenta AI dla Androida, klient mobilny i backend.
+[Repozytorium](https://github.com/mojealterego/JARVIS-2.0)
 
 ### WDA PHOTO AGENT
-
-<img src="./assets/project-wda-photo-agent.svg" alt="WDA Photo Agent" width="100%">
-
-**AI-assisted photographic workflow: source → analysis → art direction → execution → verification.**
-
-[Repository](https://github.com/mojealterego/wda-photo-agent)
-
----
+Wsparcie AI dla procesu fotograficznego: analiza, kierunek artystyczny i weryfikacja.
+[Repozytorium](https://github.com/mojealterego/wda-photo-agent)
 
 ### OMNIMAS ADVANCED
-
-<img src="./assets/project-omnimass-advanced.svg" alt="OmniMAS Advanced" width="100%">
-
-**Multi-agent Android automation architecture with planning, grounding, decision, execution, memory and validation layers.**
-
-[Repository](https://github.com/mojealterego/OmniMAS-Advanced)
-
----
+Architektura automatyzacji Androida z agentami planowania, decyzji, wykonania i pamięci.
+[Repozytorium](https://github.com/mojealterego/OmniMAS-Advanced)
 
 ### KNOWLEDGE-PROJECTS
-
-<img src="./assets/project-knowledge-projects.svg" alt="Knowledge Projects" width="100%">
-
-**Research and project lineage repository focused on source control, knowledge synthesis and architecture evolution.**
-
-[Repository](https://github.com/mojealterego/Knowledge-projects)
-
----
+Repozytorium wiedzy, badań i dokumentacji rozwoju projektów.
+[Repozytorium](https://github.com/mojealterego/Knowledge-projects)
 
 ### CCR-WORLD
-
-<img src="./assets/project-ccr-world.svg" alt="CCR World" width="100%">
-
-**Experimental AAA game / story-world repository.**
-
-[Repository](https://github.com/mojealterego/CCR-WORLD)
-
----
+Projekt gry / świata narracyjnego.
+[Repozytorium](https://github.com/mojealterego/CCR-WORLD)
 
 ### AGENTIC CINEMA
-
-<img src="./assets/project-agentic-cinema.svg" alt="Agentic Cinema — StudioSync" width="100%">
-
-**StudioSync — agentic production recovery for film and media, with evidence-aware decision support and human approval gates.**
-
-[Repository](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon)
+StudioSync — agentic production recovery dla filmu i mediów.
+[Repozytorium](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon)
 
 ---
 
+## 05 · KATALOG REPOZYTORIÓW
+
+Pełna, aktualna lista wraz z opisami i aktywnością znajduje się w [profilu GitHub](https://github.com/mojealterego?tab=repositories). Poniżej indeks repozytoriów widocznych w bieżącym zestawieniu konta; repozytoria źródłowe i forki są zachowane jako osobne pozycje.
+
+### Projekty autorskie i aplikacje
+- [ai-game-builder](https://github.com/mojealterego/ai-game-builder)
+- [AURELIS-AI](https://github.com/mojealterego/AURELIS-AI)
+- [CCR-WORLD](https://github.com/mojealterego/CCR-WORLD)
+- [CzatBotSingularity](https://github.com/mojealterego/CzatBotSingularity)
+- [Desktop-AAA-Game-Builder-No-Code](https://github.com/mojealterego/Desktop-AAA-Game-Builder-No-Code)
+- [ULTIMATE-APP](https://github.com/mojealterego/ULTIMATE-APP)
+- [JARVIS-2.0](https://github.com/mojealterego/JARVIS-2.0)
+- [mini-mobile-7](https://github.com/mojealterego/mini-mobile-7)
+- [omega7-messenger](https://github.com/mojealterego/omega7-messenger)
+- [omega-x-neuromesh](https://github.com/mojealterego/omega-x-neuromesh)
+- [hermes-mobile](https://github.com/mojealterego/hermes-mobile)
+- [hermes-agent](https://github.com/mojealterego/hermes-agent)
+- [gptAssist](https://github.com/mojealterego/gptAssist)
+- [gpt_mobile](https://github.com/mojealterego/gpt_mobile)
+- [Rap-Agent](https://github.com/mojealterego/Rap-Agent)
+- [wda-photo-agent](https://github.com/mojealterego/wda-photo-agent)
+- [OmniMAS-Advanced](https://github.com/mojealterego/OmniMAS-Advanced)
+- [Knowledge-projects](https://github.com/mojealterego/Knowledge-projects)
+- [Agentic-Cinema-The-Blockbuster-Hackathon](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon)
+- [Agents-for-Humans-Hackathon](https://github.com/mojealterego/Agents-for-Humans-Hackathon)
+- [CALL-E-Your-Code-Is-Calling-Hacktown](https://github.com/mojealterego/CALL-E-Your-Code-Is-Calling-Hacktown)
+- [Nebius-x-NVIDIA-Global-AI-Hackathon](https://github.com/mojealterego/Nebius-x-NVIDIA-Global-AI-Hackathon)
+- [IBM-Cloud-automation](https://github.com/mojealterego/IBM-Cloud-automation)
+- [ChatGPT-CodeReview](https://github.com/mojealterego/ChatGPT-CodeReview)
+- [AgentGPT](https://github.com/mojealterego/AgentGPT)
+- [mcp-coding-agent](https://github.com/mojealterego/mcp-coding-agent)
+- [Agent-God-Level](https://github.com/mojealterego/Agent-God-Level)
+- [ride-voice-agent](https://github.com/mojealterego/ride-voice-agent)
+- [wifi-densepose](https://github.com/mojealterego/wifi-densepose)
+- [Problemy-milenijne](https://github.com/mojealterego/Problemy-milenijne)
+- [Man-in-the-year](https://github.com/mojealterego/Man-in-the-year)
+- [Cz-owiek-Roku](https://github.com/mojealterego/Cz-owiek-Roku)
+
+### AI, modele, narzędzia i biblioteki
+- [system-prompts-and-models-of-ai-tools](https://github.com/mojealterego/system-prompts-and-models-of-ai-tools)
+- [lucidrag](https://github.com/mojealterego/lucidrag)
+- [tuskbot](https://github.com/mojealterego/tuskbot)
+- [reor](https://github.com/mojealterego/reor)
+- [Kalynt](https://github.com/mojealterego/Kalynt)
+- [enklayve](https://github.com/mojealterego/enklayve)
+- [OpenCodeEnterprise](https://github.com/mojealterego/OpenCodeEnterprise)
+- [chrome-devtools-mcp](https://github.com/mojealterego/chrome-devtools-mcp)
+- [locally-uncensored](https://github.com/mojealterego/locally-uncensored)
+- [future-agi](https://github.com/mojealterego/future-agi)
+- [Local-Diffusion](https://github.com/mojealterego/Local-Diffusion)
+- [Stable-Diffusion-KMP](https://github.com/mojealterego/Stable-Diffusion-KMP)
+- [ToolNeuron](https://github.com/mojealterego/ToolNeuron)
+- [agent-learning-kit](https://github.com/mojealterego/agent-learning-kit)
+- [traceAI](https://github.com/mojealterego/traceAI)
+- [futureagi-sdk](https://github.com/mojealterego/futureagi-sdk)
+- [simulate-sdk](https://github.com/mojealterego/simulate-sdk)
+- [agent-opt](https://github.com/mojealterego/agent-opt)
+- [agy-claude-plugin](https://github.com/mojealterego/agy-claude-plugin)
+- [agent-command-center-sdk](https://github.com/mojealterego/agent-command-center-sdk)
+- [n8n-nodes-futureagi](https://github.com/mojealterego/n8n-nodes-futureagi)
+- [futureagi-mcp-vscode](https://github.com/mojealterego/futureagi-mcp-vscode)
+- [hackGPT](https://github.com/mojealterego/hackGPT)
+- [pocketpal-ai](https://github.com/mojealterego/pocketpal-ai)
+- [LocalAI](https://github.com/mojealterego/LocalAI)
+- [aider](https://github.com/mojealterego/aider)
+- [free-claude-code](https://github.com/mojealterego/free-claude-code)
+- [MCP-Server-Eleven-Labs](https://github.com/mojealterego/MCP-Server-Eleven-Labs)
+- [elevenlabs-swift-sdk](https://github.com/mojealterego/elevenlabs-swift-sdk)
+- [elevenlabs-js](https://github.com/mojealterego/elevenlabs-js)
+- [elevenlabs-python](https://github.com/mojealterego/elevenlabs-python)
+- [elevenlabs-android](https://github.com/mojealterego/elevenlabs-android)
+- [elevenlabs-mcp](https://github.com/mojealterego/elevenlabs-mcp)
+- [elevenlabs-mcp-player](https://github.com/mojealterego/elevenlabs-mcp-player)
+- [elevenlabs-n8n](https://github.com/mojealterego/elevenlabs-n8n)
+- [plugin](https://github.com/mojealterego/plugin)
+- [examples](https://github.com/mojealterego/examples)
+- [ui](https://github.com/mojealterego/ui)
+- [cli](https://github.com/mojealterego/cli)
+- [skills](https://github.com/mojealterego/skills)
+- [packages](https://github.com/mojealterego/packages)
+- [cookbooks](https://github.com/mojealterego/cookbooks)
+- [docs](https://github.com/mojealterego/docs)
+- [openai-cookbook](https://github.com/mojealterego/openai-cookbook)
+
+### Android / komunikacja / platformy
+- [simplex-chat](https://github.com/mojealterego/simplex-chat)
+- [element-x-android](https://github.com/mojealterego/element-x-android)
+- [threema-android](https://github.com/mojealterego/threema-android)
+- [strykerapp](https://github.com/mojealterego/strykerapp)
+- [unity](https://github.com/mojealterego/unity)
+- [desktop-tutorial](https://github.com/mojealterego/desktop-tutorial)
+- [homebrew-tap](https://github.com/mojealterego/homebrew-tap)
+- [scoop-bucket](https://github.com/mojealterego/scoop-bucket)
+- [fotografaandrzej333.github.io](https://github.com/mojealterego/fotografaandrzej333.github.io)
+
+### Granty i aplikacje konkursowe
+- [Longview-Philanthropy-Grant](https://github.com/mojealterego/Longview-Philanthropy-Grant)
+- [Alibaba-Grants](https://github.com/mojealterego/Alibaba-Grants)
+- [Feng-Grants](https://github.com/mojealterego/Feng-Grants)
+- [MATS-Grants](https://github.com/mojealterego/MATS-Grants)
+- [ID-Xbox-Grants](https://github.com/mojealterego/ID-Xbox-Grants)
+- [Unity-Grants](https://github.com/mojealterego/Unity-Grants)
+- [Roblox-Grants](https://github.com/mojealterego/Roblox-Grants)
+- [South-Park-Grants](https://github.com/mojealterego/South-Park-Grants)
+- [Neo-residency-Grants](https://github.com/mojealterego/Neo-residency-Grants)
+- [Fellowship-Grants](https://github.com/mojealterego/Fellowship-Grants)
+- [Anthropic-Grants](https://github.com/mojealterego/Anthropic-Grants)
+- [Hound-Grants](https://github.com/mojealterego/Hound-Grants)
 
 ---
 
-## 03A · VISUAL INDEX
-
-<table>
-<tr><td><img src="./assets/category-ai-agents.svg" alt="AI & Agents" width="100%"></td><td><img src="./assets/category-mcp-infrastructure.svg" alt="MCP & Infrastructure" width="100%"></td></tr>
-<tr><td><img src="./assets/category-mobile-android.svg" alt="Mobile & Android" width="100%"></td><td><img src="./assets/category-telecom.svg" alt="Telecom / 4G / 5G" width="100%"></td></tr>
-<tr><td><img src="./assets/category-research.svg" alt="Research & R&D" width="100%"></td><td><img src="./assets/category-photography-art.svg" alt="Photography & Art" width="100%"></td></tr>
-<tr><td><img src="./assets/category-books-publishing.svg" alt="Books & Publishing" width="100%"></td><td><img src="./assets/category-tools-experiments.svg" alt="Tools & Experiments" width="100%"></td></tr>
-</table>
-
-## 04 · TECHNOLOGY
-
-`Python` · `Kotlin` · `Android` · `Linux` · `Docker` · `Open5GS` · `IMS` · `eBPF` · `PostgreSQL` · `React` · `Next.js` · `OpenAI` · `MCP` · `GitHub Actions`
-
----
-
-## 05 · HUMAN × MACHINE
-
-**HUMAN**
-
-Fotografia · film · literatura · obserwacja rzeczywistości
-
-**MACHINE**
-
-AI · agenci · MCP · aplikacje · sieci · automatyzacja · narzędzia
-
-**POMIĘDZY NIMI POWSTAJE MOJEALTEREGO.**
-
----
-
-## 06 · TWÓRCZOŚĆ
-
-Fotografia dokumentalna · portret · street photography · fotoreportaż · film · książki · projekty artystyczne
-
----
-
-## 07 · LICZBY
+## 06 · LICZBY
 
 **2000+** nagród, wyróżnień i akceptacji  
 **300+** wystaw zbiorowych  
@@ -159,34 +224,11 @@ Fotografia dokumentalna · portret · street photography · fotoreportaż · fil
 
 ---
 
-## 08 · DISCOVERY
+## 07 · LINKI
 
-### GitHub
-[All repositories](https://github.com/mojealterego?tab=repositories)
-
-### Website
-[MojeAlterego](https://mojealterego.github.io/)
-
-### Photography
-[Fotografia](https://fotografiauliczna.pl/)
-
-
----
-
-## 09A · PROJECT CATALOG
-
-- [Verified flagship project catalog](./docs/PROJECT-CATALOG.md)
-
-This catalog records only repository facts observed during the current curation pass.
-
-## 09 · BRAND & GOVERNANCE
-
-- [GitHub Lists taxonomy](./docs/LISTS.md)
-- [Visual identity system](./docs/VISUAL_SYSTEM.md)
-- [Repository README standard](./docs/REPOSITORY_README_TEMPLATE.md)
-- [Deployment plan](./docs/DEPLOYMENT.md)
-
-**Presentation rule:** visuals explain the work; they do not replace evidence. Real screenshots, real repository facts and verified status take precedence over decorative claims.
+- [GitHub — wszystkie repozytoria](https://github.com/mojealterego?tab=repositories)
+- [MojeAlterego — strona](https://mojealterego.github.io/)
+- [Fotografia Uliczna](https://fotografiauliczna.pl/)
 
 ---
 
