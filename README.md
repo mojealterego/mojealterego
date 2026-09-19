@@ -18,21 +18,34 @@
 
 ## 01 · O MNIE
 
-<div align="center">
+<table>
+<tr>
+<td width="34%" valign="top">
 
-<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portrait" width="420">
+<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portret" width="100%">
 
-</div>
+</td>
+<td width="66%" valign="top">
 
-Urodzony w Warszawie fotoreporter i autor książek, od 2023 roku mieszkający i tworzący na Śląsku. W swoim życiu zawodowym łączę pracę górnika z działalnością fotoreporterską dla Agencji Fotograficznej REPORTER. Moja pasja do obrazu narodziła się już w dzieciństwie, a z czasem przerodziła się w dojrzałą twórczość, poszerzoną o zainteresowania filmem i informatyką.
+### ANDRZEJ MIKULSKI
 
-Głównym obszarem mojej eksploracji artystycznej jest fotografia dokumentująca życie codzienne oraz portret, choć pozostaję otwarty na różnorodne tematy i formy wyrazu. Publikuję na łamach prasy codziennej, tygodników i miesięczników na całym świecie.
+Urodzony w Warszawie fotoreporter i autor książek, od 2023 roku mieszkający i tworzący na Śląsku. W swoim życiu zawodowym łączę pracę górnika z działalnością fotoreporterską dla Agencji Fotograficznej REPORTER. Pasja do obrazu narodziła się u mnie w dzieciństwie; z czasem rozszerzyłem ją o film, informatykę i eksperymenty z nowymi technologiami.
 
-Jestem aktywnym animatorem życia fotograficznego — założyłem i administruję grupą „Fotografia Uliczna”, która zrzesza obecnie ponad 75 tysięcy pasjonatów. Pełnię również funkcję jurora na portalu Flog.pl.
+Głównym obszarem mojej twórczości jest fotografia dokumentująca życie codzienne oraz portret. Publikuję na łamach prasy codziennej, tygodników i miesięczników na całym świecie.
 
-Mój dorobek artystyczny obejmuje 16 wystaw indywidualnych oraz udział w ponad 300 wystawach zbiorowych, prezentowanych w ponad 40 krajach. Zostałem uhonorowany ponad 2000 nagród, wyróżnień i akceptacji w konkursach ogólnopolskich oraz międzynarodowych. Wybrane prace stanowią część zbiorów Artystycznego Dziedzictwa Międzynarodowej Federacji Sztuki Fotograficznej (FIAP).
+Założyłem i administruję grupą „Fotografia Uliczna”, skupiającą ponad 75 tysięcy pasjonatów. Pełnię również funkcję jurora na portalu Flog.pl.
 
-W 2017 roku uzyskałem tytuł **Artysty Fotografa RP (AFRP)**. W 2019 roku otrzymałem tytuł **Artiste FIAP (AFIAP)**, a w 2020 roku **Excellence FIAP (EFIAP)**. Jestem członkiem rzeczywistym Fotoklubu RP, członkiem zarządu Cieszyńskiego Towarzystwa Fotograficznego, członkiem Stowarzyszenia Twórców Kultury i Sztuki PLAMA oraz Fotoferia Club.
+</td>
+</tr>
+</table>
+
+### Dorobek
+
+**16** wystaw indywidualnych · **300+** wystaw zbiorowych · **40+** krajów · **2000+** nagród, wyróżnień i akceptacji
+
+### Tytuły i afiliacje
+
+AFRP · AFIAP · EFIAP · Członek rzeczywisty Fotoklubu RP · Członek zarządu Cieszyńskiego Towarzystwa Fotograficznego · Członek Stowarzyszenia Twórców Kultury i Sztuki PLAMA · Członek Fotoferia Club
 
 ### Wybrane wyróżnienia
 
@@ -42,25 +55,29 @@ W 2017 roku uzyskałem tytuł **Artysty Fotografa RP (AFRP)**. W 2019 roku otrzy
 - Człowiek Roku Powiatu Cieszyńskiego — 2023, 2024
 - Człowiek Roku Powiatu Łęczyńskiego — 2017, 2018
 
-### Książki i projekty autorskie
+### Książki
 
-*Człowiek Roku* · Tetralogia CCR · *Światło które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*.
+*Człowiek Roku* · Tetralogia CCR · *Światło które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*
 
 > „Rzeczywistość to dopiero początek…”
 
 ---
 
-## 02 · MOJE ZDJĘCIE · LOGO · TOŻSAMOŚĆ
+## 02 · MARKA · LOGO · TOŻSAMOŚĆ
 
-**PORTRET AUTORA**
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portret" width="420">
+<img src="./assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="520">
 
-**IDENTYFIKACJA MARKI**
+<br><br>
 
-<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="520">
+**MOJEALTEREGO**
 
-Wspólna identyfikacja wizualna łączy fotografię, markę osobistą i ekosystem technologiczny MojeAlterego.
+Fotografia · dokument · książki · film · AI · agenci · aplikacje · infrastruktura · eksperyment
+
+</div>
+
+Logo, portret i materiały wizualne są częścią jednej identyfikacji osobistej i projektowej.
 
 ---
 
