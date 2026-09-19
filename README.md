@@ -61,6 +61,8 @@ AFRP · AFIAP · EFIAP · Członek rzeczywisty Fotoklubu RP · Członek zarządu
 
 > „Rzeczywistość to dopiero początek…”
 
+[PEŁNY PROFIL AUTORA →](./ABOUT.md)
+
 ---
 
 ## 02 · MARKA · LOGO · TOŻSAMOŚĆ
