@@ -1,64 +1,169 @@
 <div align="center">
 
+<img src="./assets/mojealterego-banner.svg" alt="MojeAlterego — cinematic profile banner" width="100%">
+
 # MOJEALTEREGO
 
 ### FOTOGRAF · TWÓRCA AI · INŻYNIER · BADACZ · OBSERWATOR
 
 **Obserwuję. Tworzę. Eksperymentuję.**
 
-*Ideas · People · Technology · Art*
+[WEBSITE](https://mojealterego.github.io/) · [REPOSITORIES](https://github.com/mojealterego?tab=repositories)
 
 </div>
 
 ---
 
-## O mnie
+## 01 · KIM JESTEM
 
-Łączę fotografię dokumentalną, opowiadanie historii, technologię i eksperyment. **MojeAlterego** to przestrzeń, w której rozwijam projekty z obszaru sztucznej inteligencji, agentów, aplikacji, infrastruktury, badań oraz twórczości wizualnej i wydawniczej.
+Łączę fotografię dokumentalną, opowiadanie historii, technologię i eksperyment.
+
+**MojeAlterego** to ekosystem projektów obejmujący sztuczną inteligencję, agentów, MCP, Android, prywatne sieci, badania, fotografię, film i publikowanie.
 
 > „Rzeczywistość to dopiero początek…”
 
-## Obszary pracy
+---
 
-| Obszar | Zakres |
-|---|---|
-| 🧠 **AI & Agents** | agenci AI, systemy wieloagentowe, LLM i automatyzacja |
-| 🔌 **MCP & Infrastructure** | serwery, integracje, narzędzia i przepływy pracy |
-| 📱 **Mobile & Android** | aplikacje Android, automatyzacja urządzeń i lokalne AI |
-| 📡 **Telecom / 4G / 5G** | prywatne sieci, core, IMS i eksperymenty telekomunikacyjne |
-| 🔬 **Research & R&D** | prototypy, badania i eksperymenty techniczne |
-| 📷 **Photography & Art** | fotografia dokumentalna, portret i opowieści wizualne |
-| 📚 **Books & Publishing** | książki, albumy i projekty wydawnicze |
-| ⚙️ **Tools & Experiments** | skrypty, narzędzia i projekty poboczne |
+## 02 · OBSZARY
 
-## Wybrane repozytoria
+| | Obszar | Zakres |
+|---|---|---|
+| 🧠 | **AI & AGENTS** | agenci AI, systemy wieloagentowe, LLM, automatyzacja |
+| 🔌 | **MCP & INFRASTRUCTURE** | serwery, integracje, narzędzia i workflow |
+| 📱 | **MOBILE & ANDROID** | Android, ADB, aplikacje i lokalne AI |
+| 📡 | **TELECOM / 4G / 5G** | prywatne LTE/5G, Open5GS, IMS, eBPF |
+| 🔬 | **RESEARCH & R&D** | prototypy, wiedza techniczna, eksperymenty |
+| 📷 | **PHOTOGRAPHY & ART** | fotografia dokumentalna, portret, obraz |
+| 📚 | **BOOKS & PUBLISHING** | książki, światy narracyjne, projekty wydawnicze |
+| ⚙️ | **TOOLS & EXPERIMENTS** | biblioteki, skrypty, narzędzia i POC |
 
-> Sekcja do uzupełnienia zweryfikowanymi linkami do aktywnych projektów. Nie umieszczam tu niepotwierdzonych statusów ani statystyk.
+---
 
-- **MINI-MOBILE-7** — prywatna sieć LTE/5G do badań i testów.
-- **Titan Extractor** — projekt ekstrakcji informacji z dokumentów.
-- **WDA Photo Agent** — narzędzia AI wspierające pracę fotograficzną.
-- **Omni / Mobile** — eksperymenty z agentami i automatyzacją urządzeń.
-- **Cieszyn Noir** — projekt fotograficzno-wydawniczy.
+## 03 · SELECTED PROJECTS
 
-## Technologie i narzędzia
+### MINI-MOBILE-7
 
-`Python` · `Kotlin` · `Android` · `Linux` · `Docker` · `Open5GS` · `IMS` · `eBPF` · `PostgreSQL` · `OpenAI` · `MCP` · `GitHub Actions`
+<img src="./assets/project-mini-mobile-7.svg" alt="MINI-MOBILE-7" width="100%">
 
-## Poza kodem
+**Private LTE/5G laboratory and private cellular network blueprint for up to 7 controlled devices.**
 
-Fotografia · fotoreportaż · film · literatura · obserwacja codzienności
+[Repository](https://github.com/mojealterego/mini-mobile-7)
 
-## Linki
+---
 
-- [MojeAlterego — GitHub](https://github.com/mojealterego)
-- [Repozytoria](https://github.com/mojealterego?tab=repositories)
+### JARVIS 2.0
+
+<img src="./assets/project-jarvis-2.svg" alt="JARVIS 2.0" width="100%">
+
+**Real Android AI assistant project with mobile client, authenticated backend and EAS build pipeline.**
+
+[Repository](https://github.com/mojealterego/JARVIS-2.0)
+
+---
+
+### WDA PHOTO AGENT
+
+<img src="./assets/project-wda-photo-agent.svg" alt="WDA Photo Agent" width="100%">
+
+**AI-assisted photographic workflow: source → analysis → art direction → execution → verification.**
+
+[Repository](https://github.com/mojealterego/wda-photo-agent)
+
+---
+
+### OMNIMAS ADVANCED
+
+<img src="./assets/project-omnimass-advanced.svg" alt="OmniMAS Advanced" width="100%">
+
+**Multi-agent Android automation architecture with planning, grounding, decision, execution, memory and validation layers.**
+
+[Repository](https://github.com/mojealterego/OmniMAS-Advanced)
+
+---
+
+### KNOWLEDGE-PROJECTS
+
+<img src="./assets/project-knowledge-projects.svg" alt="Knowledge Projects" width="100%">
+
+**Research and project lineage repository focused on source control, knowledge synthesis and architecture evolution.**
+
+[Repository](https://github.com/mojealterego/Knowledge-projects)
+
+---
+
+### CCR-WORLD
+
+<img src="./assets/project-ccr-world.svg" alt="CCR World" width="100%">
+
+**Experimental AAA game / story-world repository.**
+
+[Repository](https://github.com/mojealterego/CCR-WORLD)
+
+---
+
+### AGENTIC CINEMA
+
+<img src="./assets/project-agentic-cinema.svg" alt="Agentic Cinema — StudioSync" width="100%">
+
+**StudioSync — agentic production recovery for film and media, with evidence-aware decision support and human approval gates.**
+
+[Repository](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon)
+
+---
+
+## 04 · TECHNOLOGY
+
+`Python` · `Kotlin` · `Android` · `Linux` · `Docker` · `Open5GS` · `IMS` · `eBPF` · `PostgreSQL` · `React` · `Next.js` · `OpenAI` · `MCP` · `GitHub Actions`
+
+---
+
+## 05 · HUMAN × MACHINE
+
+**HUMAN**
+
+Fotografia · film · literatura · obserwacja rzeczywistości
+
+**MACHINE**
+
+AI · agenci · MCP · aplikacje · sieci · automatyzacja · narzędzia
+
+**POMIĘDZY NIMI POWSTAJE MOJEALTEREGO.**
+
+---
+
+## 06 · TWÓRCZOŚĆ
+
+Fotografia dokumentalna · portret · street photography · fotoreportaż · film · książki · projekty artystyczne
+
+---
+
+## 07 · LICZBY
+
+**2000+** nagród, wyróżnień i akceptacji  
+**300+** wystaw zbiorowych  
+**40+** krajów prezentacji prac  
+**16** wystaw indywidualnych  
+**75 000+** członków społeczności fotograficznej
+
+---
+
+## 08 · DISCOVERY
+
+### GitHub
+[All repositories](https://github.com/mojealterego?tab=repositories)
+
+### Website
+[MojeAlterego](https://mojealterego.github.io/)
+
+### Photography
+[Fotografia](https://fotografiauliczna.pl/)
 
 ---
 
 <div align="center">
 
-**IDEAS · PEOPLE · TECHNOLOGY · ART**  
-*A better tomorrow through creativity and technology.*
+**IDEAS · PEOPLE · TECHNOLOGY · ART**
+
+### A BETTER TOMORROW
 
 </div>
