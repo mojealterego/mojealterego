@@ -2,7 +2,7 @@
 
 <img src="./assets/mojealterego-banner.svg" alt="MojeAlterego — cinematic profile banner" width="100%">
 
-<img src="./assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="260">
+<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="260">
 
 # MOJEALTEREGO
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portrait" width="620">
+<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portrait" width="620">
 
 </div>
 
@@ -54,11 +54,11 @@ W 2017 roku uzyskałem tytuł **Artysty Fotografa RP (AFRP)**. W 2019 roku otrzy
 
 **PORTRET AUTORA**
 
-<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portret" width="420">
+<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portret" width="420">
 
 **IDENTYFIKACJA MARKI**
 
-<img src="./assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="520">
+<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="520">
 
 Wspólna identyfikacja wizualna łączy fotografię, markę osobistą i ekosystem technologiczny MojeAlterego.
 
