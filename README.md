@@ -16,9 +16,13 @@
 
 ## O MNIE
 
+<div align="center">
+<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski" width="240">
+</div>
+
 Urodzony w Warszawie fotograf, fotoreporter i autor książek. Od 2023 roku mieszkam i tworzę na Śląsku Cieszyńskim. Łączę pracę górnika z fotoreportażem dla Agencji Fotograficznej REPORTER. Fotografuję przede wszystkim codzienność, ludzi i relacje; interesują mnie również film, informatyka i nowe technologie.
 
-Założyłem i administruję społecznością **Fotografia Uliczna** (ponad 75 000 członków) oraz jestem jurorem portalu Flog.pl. Moje prace były prezentowane w Polsce i za granicą.
+Założyłem i administruję społecznością **Fotografia Uliczna** (ponad 75 000 członków) oraz jestem jurorem portalu Flog.pl. Moje prace były prezentowane w Polsce i za granicą, a wybrane prace znajdują się w kolekcji FIAP.
 
 ## DOROBEK
 
@@ -49,18 +53,22 @@ Założyłem i administruję społecznością **Fotografia Uliczna** (ponad 75 0
 
 ---
 
-## OBSZARY
+## OBSZARY TWÓRCZOŚCI I BUDOWANIA
 
-| Obszar | Zakres |
-|---|---|
-| Fotografia i sztuka | Dokument, portret, street photography, fotoreportaż |
-| Książki i publishing | Literatura, światy narracyjne, publikacje |
-| Film | Obraz w ruchu i opowieści wizualne |
-| AI i agenci | Asystenci, systemy wieloagentowe, automatyzacja |
-| MCP i infrastruktura | Integracje, serwery i workflow |
-| Mobile i Android | Aplikacje, Kotlin, automatyzacja urządzeń |
-| Telekomunikacja | Prywatne środowiska LTE/5G, IMS, Open5GS |
-| Research & R&D | Prototypy, narzędzia, dokumentacja i eksperymenty |
+<table>
+<tr>
+<td align="center" width="25%"><img src="./assets/category-photography-art.svg" alt="" width="100%"><br><b>FOTOGRAFIA I SZTUKA</b><br>Dokument · portret · street</td>
+<td align="center" width="25%"><img src="./assets/category-books-publishing.svg" alt="" width="100%"><br><b>KSIĄŻKI I PUBLISHING</b><br>Literatura · światy narracyjne</td>
+<td align="center" width="25%"><img src="./assets/category-ai-agents.svg" alt="" width="100%"><br><b>AI I AGENCI</b><br>Asystenci · systemy wieloagentowe</td>
+<td align="center" width="25%"><img src="./assets/category-mcp-infrastructure.svg" alt="" width="100%"><br><b>MCP I INFRASTRUKTURA</b><br>Integracje · workflow</td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/category-mobile-android.svg" alt="" width="100%"><br><b>MOBILE I ANDROID</b><br>Aplikacje · Kotlin</td>
+<td align="center"><img src="./assets/category-telecom.svg" alt="" width="100%"><br><b>TELEKOMUNIKACJA</b><br>Prywatne LTE/5G · IMS</td>
+<td align="center"><img src="./assets/category-research.svg" alt="" width="100%"><br><b>RESEARCH & R&amp;D</b><br>Prototypy · dokumentacja</td>
+<td align="center"><img src="./assets/category-tools-experiments.svg" alt="" width="100%"><br><b>NARZĘDZIA I EKSPERYMENTY</b><br>Automatyzacja · testy</td>
+</tr>
+</table>
 
 ---
 
@@ -68,9 +76,11 @@ Założyłem i administruję społecznością **Fotografia Uliczna** (ponad 75 0
 
 Poniższe odnośniki prowadzą do repozytoriów. Opisy określają temat projektu, nie deklarują jego gotowości produkcyjnej.
 
-- **MINI-MOBILE-7** — prywatne laboratorium sieci LTE/5G: [repozytorium](https://github.com/mojealterego/mini-mobile-7)
-- **Knowledge-projects** — baza wiedzy i archiwum projektów: [repozytorium](https://github.com/mojealterego/Knowledge-projects)
-- **Nowe-projekty** — kolekcja nowych koncepcji i prac: [repozytorium](https://github.com/mojealterego/Nowe-projekty)
+| Projekt | Zakres | Repozytorium |
+|---|---|---|
+| MINI-MOBILE-7 | Prywatne laboratorium sieci LTE/5G | [Otwórz](https://github.com/mojealterego/mini-mobile-7) |
+| Knowledge-projects | Baza wiedzy i archiwum projektów | [Otwórz](https://github.com/mojealterego/Knowledge-projects) |
+| Nowe-projekty | Kolekcja nowych koncepcji i prac | [Otwórz](https://github.com/mojealterego/Nowe-projekty) |
 
 Pełna, aktualna lista: [github.com/mojealterego](https://github.com/mojealterego?tab=repositories).
 
@@ -82,8 +92,6 @@ Pełna, aktualna lista: [github.com/mojealterego](https://github.com/mojealtereg
 **MACHINE** — AI · agenci · MCP · aplikacje · sieci · automatyzacja
 
 ### POMIĘDZY NIMI POWSTAJE MOJEALTEREGO.
-
----
 
 <div align="center">
 
