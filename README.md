@@ -170,6 +170,18 @@ Fotografia dokumentalna · portret · street photography · fotoreportaż · fil
 ### Photography
 [Fotografia](https://fotografiauliczna.pl/)
 
+
+---
+
+## 09 · BRAND & GOVERNANCE
+
+- [GitHub Lists taxonomy](./docs/LISTS.md)
+- [Visual identity system](./docs/VISUAL_SYSTEM.md)
+- [Repository README standard](./docs/REPOSITORY_README_TEMPLATE.md)
+- [Deployment plan](./docs/DEPLOYMENT.md)
+
+**Presentation rule:** visuals explain the work; they do not replace evidence. Real screenshots, real repository facts and verified status take precedence over decorative claims.
+
 ---
 
 <div align="center">
