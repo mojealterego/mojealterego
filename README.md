@@ -173,6 +173,12 @@ Fotografia dokumentalna · portret · street photography · fotoreportaż · fil
 
 ---
 
+## 09A · PROJECT CATALOG
+
+- [Verified flagship project catalog](./docs/PROJECT-CATALOG.md)
+
+This catalog records only repository facts observed during the current curation pass.
+
 ## 09 · BRAND & GOVERNANCE
 
 - [GitHub Lists taxonomy](./docs/LISTS.md)
