@@ -2,7 +2,7 @@
 
 <img src="./assets/mojealterego-banner.svg" alt="MojeAlterego — cinematic profile banner" width="100%">
 
-<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="260">
+<img src="./assets/brand/mojealterego-logo.jpg" alt="AM — Andrzej Mikulski — MojeAlterego" width="260">
 
 # MOJEALTEREGO
 
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mojealterego/mojealterego/main/assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portrait" width="620">
+<img src="./assets/profile/portrait-andrzej.jpg" alt="Andrzej Mikulski — portrait" width="420">
 
 </div>
 
