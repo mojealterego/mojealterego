@@ -32,22 +32,25 @@ Założyłem i administruję społecznością **Fotografia Uliczna** (ponad 75 0
 
 ### Tytuły i działalność
 
-- AFRP (2017), AFIAP (2019), EFIAP (2020)
+- AFRP Artysta Fotograf Rzeczypospolitej Polski (2017),
+- AFIAP Międzynarodowy tytuł Artysty Fotografa (2019),
+- EFIAP Międzynarodowy tytuł Wybitnego Artysty Fotografa (2020) (1 z 50 w historii Polski)
 - Członek rzeczywisty Fotoklubu RP
 - Członek zarządu Cieszyńskiego Towarzystwa Fotograficznego
-- Członek PLAMA Łęczna i Fotoferia Club
+- Członek PLAMA Łęczna
+- Fotoferia Club
 
 ### Wybrane wyróżnienia
 
-- 2023 — Złoty Medal „Za Fotograficzną Twórczość”
-- 2019 — Srebrny Medal „Za Zasługi dla Polskiej Fotografii”
-- 2018 — Brązowy Medal „Za Fotograficzną Twórczość”
+- 2023 — Złoty Medal Rzeczypospolitej Polski „Za Fotograficzną Twórczość”
+- 2019 — Srebrny Medal Rzeczypospolitej Polski „Za Zasługi dla Polskiej Fotografii”
+- 2018 — Brązowy Medal Rzeczypospolitej Polski „Za Fotograficzną Twórczość”
 - Człowiek Roku Powiatu Cieszyńskiego — 2023 i 2024
 - Człowiek Roku Powiatu Łęczyńskiego — 2017 i 2018
 
 ### Książki i publikacje
 
-*Człowiek Roku* · Tetralogia CCR · *Światło które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*
+*Człowiek Roku* · Tetralogia CCR Tom I: Jak przeżyć w dziwnym świecie po przeniesieniu się do alternatywnej osi czasu, Tom II: Oś czasu w alternatywnych światach, Tom III: Ludzie Roku Oś 18 świadomości, Tom IV: Architektura Nieskończoności · *Światło które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*
 
 > „Rzeczywistość to dopiero początek…”
 
