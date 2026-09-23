@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mojealterego-banner.svg" alt="MojeAlterego — banner" width="100%">
+<img src="./assets/branding/mojealterego-logo.webp" alt="Andrzej Mikulski — MojeAlterego" width="760">
 
 # MOJEALTEREGO
 
