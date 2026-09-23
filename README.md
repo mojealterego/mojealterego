@@ -89,6 +89,50 @@ Pełna, aktualna lista: [github.com/mojealterego](https://github.com/mojealtereg
 
 ---
 
+## DATA VISUALIZATION · PROFIL TWÓRCZY
+
+<div align="center">
+
+### 01 / SKALA DOROBKU
+
+</div>
+
+| METRYKA | WARTOŚĆ | WIZUALIZACJA |
+|:--|--:|:--|
+| Wystawy indywidualne | **16** | █░░░░░░░░░ |
+| Wystawy zbiorowe | **300+** | ██░░░░░░░░ |
+| Kraje prezentacji | **40+** | ██░░░░░░░░ |
+| Nagrody / wyróżnienia / akceptacje | **2000+** | ██████████ |
+| Społeczność Fotografia Uliczna | **75 000+** | ██████████ |
+
+> **Skala względna:** paski służą do szybkiego odczytu wielkości danych; jednostki metryk są różne i nie powinny być interpretowane jako jedna wspólna skala.
+
+### 02 / PROFIL AKTYWNOŚCI
+
+```text
+FOTOGRAFIA       ████████████████████████████████████████  OBSERWACJA
+LITERATURA       ████████████████████████████              NARRACJA
+AI / AGENCI      ██████████████████████████                EKSPERYMENT
+MCP / SYSTEMY    ████████████████████████                  INTEGRACJE
+MOBILE / ANDROID ██████████████████████                    IMPLEMENTACJA
+TELECOM          ████████████████████                      INFRASTRUKTURA
+RESEARCH / R&D   ██████████████████                        PROTOTYPOWANIE
+```
+
+### 03 / EKOSYSTEM
+
+<div align="center">
+
+**HUMAN** → fotografia · film · literatura · dokument  
+**BRIDGE** → dane · narzędzia · MCP · workflow  
+**MACHINE** → AI · agenci · aplikacje · sieci
+
+</div>
+
+**Dane opisowe** pochodzą z profilu autora i listy projektów przedstawionych w tym repozytorium. Wizualizacja nie ocenia jakości, wartości ani gotowości projektów.
+
+---
+
 ## HUMAN × MACHINE
 
 **HUMAN** — fotografia · film · literatura · obserwacja rzeczywistości  
