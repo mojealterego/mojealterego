@@ -31,7 +31,6 @@ jobs:
             --verbose
             --no-progress
             --accept 200,429
-            --exclude-mail
             README.md ABOUT.md docs/**/*.md
           fail: true
         env:
