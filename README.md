@@ -126,8 +126,8 @@ Sekcja poniżej jest generowana z kontrolowanego manifestu `.github/project-cata
 
 ## HUMAN × MACHINE
 
-**HUMAN** — fotografia · film · literatura · obserwacja rzeczywistości  
-**BRIDGE** — dane · narzędzia · MCP · workflow · research  
+**HUMAN** — fotografia · film · literatura · obserwacja rzeczywistości
+**BRIDGE** — dane · narzędzia · MCP · workflow · research
 **MACHINE** — AI · agenci · Android · automatyzacja · infrastruktura
 
 ### POMIĘDZY NIMI POWSTAJE MOJEALTEREGO.
