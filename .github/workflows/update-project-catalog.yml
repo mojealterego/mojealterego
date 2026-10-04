@@ -6,24 +6,45 @@ on:
     - cron: "17 4 * * 1"
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+
+concurrency:
+  group: project-catalog-refresh
+  cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONHASHSEED: "0"
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Verify catalog tooling before mutation
+        run: |
+          python -m compileall -q scripts tests
+          python -m unittest discover -s tests -p 'test_*.py'
       - name: Refresh README catalog from GitHub metadata
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/update_project_catalog.py
+      - name: Verify generated profile
+        run: |
+          python scripts/check_profile_a11y.py README.md
+          git diff --check
       - name: Open controlled catalog update PR
         uses: peter-evans/create-pull-request@v7
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           branch: automation/project-catalog
           delete-branch: true
           commit-message: "chore: refresh project catalog"
@@ -31,3 +52,5 @@ jobs:
           body: |
             Automated refresh of repository metadata in the generated flagship-project catalog.
             Project maturity statuses are never promoted automatically.
+          add-paths: |
+            README.md
