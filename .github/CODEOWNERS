@@ -1,0 +1,8 @@
+# Repository-wide ownership
+* @mojealterego
+
+# Automation and policy changes require explicit owner review.
+.github/ @mojealterego
+scripts/ @mojealterego
+tests/ @mojealterego
+docs/ @mojealterego
