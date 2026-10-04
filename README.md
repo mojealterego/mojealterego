@@ -119,7 +119,7 @@ Sekcja poniżej jest generowana z kontrolowanego manifestu `.github/project-cata
 | [`Knowledge-projects`](https://github.com/mojealterego/Knowledge-projects) | Research | **RESEARCH** | JavaScript | 2026-10-04 | Research, knowledge synthesis and project-registry repository. |
 | [`CCR-WORLD`](https://github.com/mojealterego/CCR-WORLD) | Books / Android / Creative Technology | **CONCEPT** | — | 2026-10-04 | GAME AAA ANDROIFD |
 | [`Agentic-Cinema-The-Blockbuster-Hackathon`](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon) | AI / Agents / MCP | **PROTOTYPE** | Python | 2026-10-04 | StudioSync — agentic production-recovery prototype for film and media. |
-| [`AURELIS-AI`](https://github.com/mojealterego/AURELIS-AI) | AI / Agents / Web | **BETA** | TypeScript | 2026-10-04 | Premium conversational intelligence workspace with persistent history, files and artifacts. |
+| [`AURELIS-AI`](https://github.com/mojealterego/AURELIS-AI) | AI / Agents / Web | **PROTOTYPE** | TypeScript | 2026-10-04 | Premium conversational intelligence workspace; quality gate remediation remains open. |
 <!-- PROJECT_CATALOG:END -->
 
 ---
