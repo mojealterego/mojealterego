@@ -9,11 +9,18 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: profile-quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   markdown:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           globs: |
@@ -23,8 +30,11 @@ jobs:
 
   links:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
@@ -38,12 +48,22 @@ jobs:
 
   accessibility-and-tests:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+      PYTHONHASHSEED: "0"
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Compile Python sources
+        run: python -m compileall -q scripts tests
       - name: Unit tests
         run: python -m unittest discover -s tests -p 'test_*.py'
       - name: Profile accessibility checks
         run: python scripts/check_profile_a11y.py README.md
+      - name: Reject whitespace errors
+        run: git diff --check HEAD^ HEAD
