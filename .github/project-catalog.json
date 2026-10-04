@@ -1,0 +1,14 @@
+{
+  "owner": "mojealterego",
+  "status_policy": "docs/PROJECT-STATUS.md",
+  "projects": [
+    {"repo":"mini-mobile-7","priority":10,"domain":"Research / Telecom","status":"PROTOTYPE","language":"Shell","last_verified":"2026-10-04","summary":"Private LTE/5G network for up to 7 devices"},
+    {"repo":"JARVIS-2.0","priority":20,"domain":"Android / AI / Agents","status":"PROTOTYPE","language":"TypeScript","last_verified":"2026-10-04","summary":"JARVIS 2.0 - Real Android AI Assistant"},
+    {"repo":"wda-photo-agent","priority":30,"domain":"Photography / AI / Agents","status":"BETA","language":"TypeScript","last_verified":"2026-10-04","summary":"Mobile-oriented AI art-direction and postproduction pipeline using OpenAI and Adobe services."},
+    {"repo":"OmniMAS-Advanced","priority":40,"domain":"Android / AI / Agents","status":"PROTOTYPE","language":"Kotlin","last_verified":"2026-10-04","summary":"Android automation architecture with local LLM planning, accessibility grounding and a security gate."},
+    {"repo":"Knowledge-projects","priority":50,"domain":"Research","status":"RESEARCH","language":"JavaScript","last_verified":"2026-10-04","summary":"Research, knowledge synthesis and project-registry repository."},
+    {"repo":"CCR-WORLD","priority":60,"domain":"Books / Android / Creative Technology","status":"CONCEPT","language":"—","last_verified":"2026-10-04","summary":"GAME AAA ANDROIFD"},
+    {"repo":"Agentic-Cinema-The-Blockbuster-Hackathon","priority":70,"domain":"AI / Agents / MCP","status":"PROTOTYPE","language":"Python","last_verified":"2026-10-04","summary":"StudioSync — agentic production-recovery prototype for film and media."},
+    {"repo":"AURELIS-AI","priority":80,"domain":"AI / Agents / Web","status":"BETA","language":"TypeScript","last_verified":"2026-10-04","summary":"Premium conversational intelligence workspace with persistent history, files and artifacts."}
+  ]
+}
