@@ -60,7 +60,7 @@ Katalog jest generowany z kontrolowanego manifestu `.github/project-catalog.json
 | [`wda-photo-agent`](https://github.com/mojealterego/wda-photo-agent) | Photography / AI / Agents | **BETA** | TypeScript | 2026-10-04 | Mobile-oriented AI art-direction and postproduction pipeline using OpenAI and Adobe services. |
 | [`OmniMAS-Advanced`](https://github.com/mojealterego/OmniMAS-Advanced) | Android / AI / Agents | **PROTOTYPE** | Kotlin | 2026-10-04 | Android automation architecture with local LLM planning, accessibility grounding and a security gate. |
 | [`Knowledge-projects`](https://github.com/mojealterego/Knowledge-projects) | Research | **RESEARCH** | JavaScript | 2026-10-04 | Research, knowledge synthesis and project-registry repository. |
-| [`CCR-WORLD`](https://github.com/mojealterego/CCR-WORLD) | Books / Android / Creative Technology | **CONCEPT** | — | 2026-10-04 | AAA Android game concept connected to the CCR creative universe. |
+| [`CCR-WORLD`](https://github.com/mojealterego/CCR-WORLD) | Books / Android / Creative Technology | **CONCEPT** | — | 2026-10-04 | GAME AAA ANDROIFD |
 | [`Agentic-Cinema-The-Blockbuster-Hackathon`](https://github.com/mojealterego/Agentic-Cinema-The-Blockbuster-Hackathon) | AI / Agents / MCP | **PROTOTYPE** | Python | 2026-10-04 | StudioSync — agentic production-recovery prototype for film and media. |
 | [`AURELIS-AI`](https://github.com/mojealterego/AURELIS-AI) | AI / Agents / Web | **PROTOTYPE** | TypeScript | 2026-10-04 | Premium conversational intelligence workspace; quality gate remediation remains open. |
 <!-- PROJECT_CATALOG:END -->
