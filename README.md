@@ -1,113 +1,56 @@
 <div align="center">
 
-<img src="./assets/branding/mojealterego-logo.webp" alt="Andrzej Mikulski — MojeAlterego" width="760">
-
-# MOJEALTEREGO
-
-**ANDRZEJ MIKULSKI · FOTOGRAF · FOTOREPORTER · AUTOR · TWÓRCA**
-
-**Obserwuję. Tworzę. Eksperymentuję.**
-
-[STRONA WWW](https://mojealterego.github.io/) · [PROJEKTY](https://github.com/mojealterego?tab=repositories) · [STATUSY PROJEKTÓW](./docs/PROJECT-STATUS.md)
+<img src="./assets/branding/profile-hero.svg" alt="Andrzej Mikulski — MojeAlterego: fotografia, książki, AI, agenci, Android, MCP i research" width="100%">
 
 </div>
 
+# Andrzej Mikulski / MojeAlterego
+
+**Fotograf · fotoreporter · autor · twórca systemów i eksperymentów technologicznych**
+
+> **Obserwuję. Tworzę. Eksperymentuję.**  
+> Łączę obraz, narrację i technologię — od fotografii dokumentalnej i książek po AI, agentów, Androida i MCP.
+
+**[STRONA WWW](https://mojealterego.github.io/)** · **[REPOZYTORIA](https://github.com/mojealterego?tab=repositories)** · **[STATUSY PROJEKTÓW](./docs/PROJECT-STATUS.md)**
+
 ---
 
-## O MNIE
+## Profil
 
-Urodzony w Warszawie fotograf, fotoreporter i autor książek. Od 2023 roku mieszkam i tworzę na Śląsku Cieszyńskim. Łączę pracę górnika z fotoreportażem dla Agencji Fotograficznej REPORTER. Fotografuję przede wszystkim codzienność, ludzi i relacje; interesują mnie również film, informatyka i nowe technologie.
+Urodzony w Warszawie fotograf, fotoreporter i autor książek. Od 2023 roku mieszkam i tworzę na Śląsku Cieszyńskim. Łączę pracę górnika z fotoreportażem dla Agencji Fotograficznej REPORTER. Fotografuję codzienność, ludzi i relacje; równolegle rozwijam projekty z obszaru filmu, informatyki, sztucznej inteligencji i automatyzacji.
 
 Założyłem i administruję społecznością **Fotografia Uliczna** liczącą ponad **75 000 członków**. Mój dorobek obejmuje **16 wystaw indywidualnych**, ponad **300 wystaw zbiorowych** i prezentacje prac w ponad **40 krajach**.
 
-### Dorobek
-
-| 16 | 300+ | 40+ | 2000+ | 75 000+ |
+| **16** | **300+** | **40+** | **2000+** | **75 000+** |
 |---:|---:|---:|---:|---:|
 | wystaw indywidualnych | wystaw zbiorowych | krajów | nagród, wyróżnień i akceptacji | członków społeczności |
 
-### Tytuły i działalność
-
-- AFRP — Artysta Fotograf Rzeczypospolitej Polski (2017)
-- AFIAP — Artiste FIAP (2019)
-- EFIAP — Excellence FIAP (2020)
-- Członek rzeczywisty Fotoklubu RP
-- Członek zarządu Cieszyńskiego Towarzystwa Fotograficznego
-- Juror portalu Flog.pl
+**AFRP** 2017 · **AFIAP** 2019 · **EFIAP** 2020 · Członek rzeczywisty Fotoklubu RP · Członek zarządu Cieszyńskiego Towarzystwa Fotograficznego · Juror Flog.pl
 
 ---
 
-## OBSZARY
+## Ekosystem MojeAlterEgo
 
-### Photography
-
-<img src="./assets/category-photography-art.svg" alt="Photography — fotografia i sztuka" width="180">
-
-Fotografia dokumentalna, street photography, portret, fotoreportaż, wystawy i publikacje.
-
-**Kierunek:** obserwacja rzeczywistości, człowiek, relacje, dokument.
-
-### Books
-
-<img src="./assets/category-books-publishing.svg" alt="Books — książki i publishing" width="180">
-
-Książki, albumy, komiks, autorskie światy narracyjne i projekty wydawnicze.
-
-**Wybrane tytuły:** *Człowiek Roku*, tetralogia *CCR*, *Światło które zostało*, *Baśń o Pornlandi*, *Cieszyn Noir*, *Ontologia Liczby i Geometrii*, komiks *Druga połowa*.
-
-### AI
-
-<img src="./assets/category-ai-agents.svg" alt="AI — sztuczna inteligencja" width="180">
-
-Systemy wykorzystujące modele językowe, multimodalność, automatyzację, reasoning, pamięć i narzędzia.
-
-**Zasada:** funkcja opisana jako działająca musi mieć kod, konfigurację albo weryfikowalny rezultat.
-
-### Agents
-
-<img src="./assets/category-ai-agents.svg" alt="Agents — systemy agentowe" width="180">
-
-Agenci pojedynczy i wieloagentowi, planowanie, grounding, wykonanie, walidacja, human approval i architektury agentowe.
-
-### Android
-
-<img src="./assets/category-mobile-android.svg" alt="Android — aplikacje mobilne" width="180">
-
-Aplikacje natywne i cross-platform, lokalne modele, automatyzacja urządzeń, build pipeline i eksperymenty mobilne.
-
-### MCP
-
-<img src="./assets/category-mcp-infrastructure.svg" alt="MCP — Model Context Protocol i infrastruktura" width="180">
-
-Model Context Protocol, integracje narzędzi, warstwy gateway, systemy wykonawcze i infrastruktura łącząca agentów z usługami.
-
-### Research
-
-<img src="./assets/category-research.svg" alt="Research — badania i rozwój" width="180">
-
-Analiza, prototypowanie, repozytoria wiedzy, architektury eksperymentalne, testowanie hipotez i dokumentowanie ograniczeń.
-
----
-
-## STATUSY PROJEKTÓW
-
-Każdy projekt może mieć tylko jeden status nadrzędny:
-
-| Status | Znaczenie |
+| HUMAN | BRIDGE |
 |---|---|
-| **PRODUCTION** | Zweryfikowane wdrożenie produkcyjne, działający build/deploy i spełnione wymagane bramki jakości. |
-| **BETA** | Zintegrowany i testowalny system; nie wszystkie bramki produkcyjne są jeszcze zamknięte. |
-| **PROTOTYPE** | Działający lub częściowo działający demonstrator / fundament techniczny wymagający dalszej integracji. |
-| **RESEARCH** | Repo badawcze, eksperymentalne lub wiedzy; nie jest deklarowane jako produkt. |
-| **CONCEPT** | Koncepcja, specyfikacja albo identyfikacja projektu bez wystarczająco zweryfikowanej implementacji. |
+| **Photography** — dokument, street, portret, fotoreportaż, wystawy i publikacje. | **AI** — modele językowe, multimodalność, reasoning, pamięć i narzędzia. |
+| **Books** — książki, komiks, autorskie uniwersa i projekty wydawnicze. | **Agents** — planowanie, grounding, wykonanie, walidacja i human approval. |
+| **Film / narrative** — obraz, opowieść, trailery i eksperymenty audiowizualne. | **Android** — aplikacje mobilne, lokalne modele i automatyzacja urządzeń. |
+| **Research** — analiza, prototypowanie i testowanie hipotez. | **MCP / Infrastructure** — integracje narzędzi, gatewaye i systemy wykonawcze. |
 
-Pełne kryteria awansu i degradacji statusu: [`docs/PROJECT-STATUS.md`](./docs/PROJECT-STATUS.md).
+### Książki i światy autorskie
+
+*Człowiek Roku* · tetralogia *CCR* · *Światło które zostało* · *Baśń o Pornlandi* · *Cieszyn Noir* · *Ontologia Liczby i Geometrii* · komiks *Druga połowa*
+
+### Zasada techniczna
+
+**Kod > deklaracja.** Funkcja opisana jako działająca powinna mieć implementację, konfigurację, test albo inny weryfikowalny rezultat. Status projektu nie jest automatycznie podnoszony przez generator katalogu.
 
 ---
 
-## FLAGOWE PROJEKTY
+## Flagowe projekty
 
-Sekcja poniżej jest generowana z kontrolowanego manifestu `.github/project-catalog.json`. Status pozostaje ręcznie deklarowany; automatyzacja może odświeżać metadane repo, ale nie może samodzielnie promować projektu do wyższego statusu.
+Katalog jest generowany z kontrolowanego manifestu `.github/project-catalog.json`. Automatyzacja odświeża metadane, ale **nie może samodzielnie promować dojrzałości projektu**.
 
 <!-- PROJECT_CATALOG:START -->
 | Project | Domain | Status | Primary language | Last activity | Scope |
@@ -124,42 +67,48 @@ Sekcja poniżej jest generowana z kontrolowanego manifestu `.github/project-cata
 
 ---
 
-## HUMAN × MACHINE
+## Statusy i wiarygodność
 
-**HUMAN** — fotografia · film · literatura · obserwacja rzeczywistości
-**BRIDGE** — dane · narzędzia · MCP · workflow · research
-**MACHINE** — AI · agenci · Android · automatyzacja · infrastruktura
+<details>
+<summary><strong>PRODUCTION / BETA / PROTOTYPE / RESEARCH / CONCEPT — kryteria</strong></summary>
 
-### POMIĘDZY NIMI POWSTAJE MOJEALTEREGO.
+| Status | Znaczenie |
+|---|---|
+| **PRODUCTION** | Zweryfikowane wdrożenie produkcyjne, działający build/deploy i wymagane bramki jakości. |
+| **BETA** | Zintegrowany i testowalny system; część bramek produkcyjnych pozostaje otwarta. |
+| **PROTOTYPE** | Działający lub częściowo działający demonstrator wymagający dalszej integracji. |
+| **RESEARCH** | Repo badawcze, eksperymentalne lub wiedzy; bez deklaracji gotowego produktu. |
+| **CONCEPT** | Koncepcja lub specyfikacja bez wystarczająco zweryfikowanej implementacji. |
+
+Pełna polityka: [docs/PROJECT-STATUS.md](./docs/PROJECT-STATUS.md).
+
+</details>
+
+<details>
+<summary><strong>Jak czytać moje repozytoria</strong></summary>
+
+Każdy projekt powinien rozdzielać:
+
+1. to, co istnieje w kodzie,
+2. to, co zostało uruchomione lub przetestowane,
+3. plan lub hipotezę,
+4. otwarte ograniczenia i zależności.
+
+Wspólny standard README: [docs/FLAGSHIP-README-STANDARD.md](./docs/FLAGSHIP-README-STANDARD.md).
+
+</details>
 
 ---
 
-## JAK CZYTAĆ TE REPOZYTORIA
+## Profil GitHub ≠ strona WWW
 
-Repozytoria mogą reprezentować różne etapy rozwoju. Obecność kodu, README lub diagramu nie oznacza automatycznie wdrożenia produkcyjnego. Każdy projekt powinien oddzielać:
-
-1. **co istnieje w kodzie,**
-2. **co zostało uruchomione lub przetestowane,**
-3. **co jest planem lub hipotezą,**
-4. **jakie ograniczenia i zależności pozostają otwarte.**
-
-Wspólny standard README dla projektów flagowych znajduje się w [`docs/FLAGSHIP-README-STANDARD.md`](./docs/FLAGSHIP-README-STANDARD.md).
-
----
-
-## REPOZYTORIUM PROFILOWE A STRONA WWW
-
-To repozytorium (`mojealterego/mojealterego`) jest **profilem GitHub i indeksem ekosystemu**.
-
-Kod właściwej strony WWW znajduje się w osobnym repozytorium:
-
-[`mojealterego/mojealterego.github.io`](https://github.com/mojealterego/mojealterego.github.io)
-
-Dzięki temu profil GitHub nie jest mieszany z aplikacją React/Vite strony produkcyjnej.
+`mojealterego/mojealterego` jest **profilem GitHub i indeksem ekosystemu**. Właściwa strona WWW jest rozwijana osobno w repozytorium [`mojealterego/mojealterego.github.io`](https://github.com/mojealterego/mojealterego.github.io).
 
 ---
 
 <div align="center">
+
+**HUMAN × MACHINE**
 
 **IDEAS · PEOPLE · TECHNOLOGY · ART**
 
