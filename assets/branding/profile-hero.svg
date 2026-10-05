@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title>Andrzej Mikulski — MojeAlterego</title>
+  <desc>Obsidian profile banner with gold and teal accents for photography, books, AI agents, Android, MCP and research.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050607"/>
+      <stop offset="0.52" stop-color="#0A0D10"/>
+      <stop offset="1" stop-color="#071417"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8F6A2D"/>
+      <stop offset="0.45" stop-color="#E2C47B"/>
+      <stop offset="1" stop-color="#A77B34"/>
+    </linearGradient>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1E6C73"/>
+      <stop offset="1" stop-color="#61B8BE"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="25%" r="62%">
+      <stop offset="0" stop-color="#2C9AA3" stop-opacity=".20"/>
+      <stop offset=".5" stop-color="#C9A45C" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="27" fill="none" stroke="#2B3035"/>
+  <rect width="1200" height="420" rx="28" fill="url(#glow)"/>
+
+  <g opacity=".38" fill="none">
+    <circle cx="1035" cy="78" r="155" stroke="#C9A45C"/>
+    <circle cx="1035" cy="78" r="205" stroke="#2D8E96"/>
+    <path d="M850 0L1200 350M930 0L1200 270M1010 0L1200 190" stroke="#26383B"/>
+  </g>
+
+  <rect x="70" y="70" width="6" height="212" rx="3" fill="url(#gold)"/>
+  <text x="110" y="118" fill="#C9A45C" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="7">MOJEALTEREGO</text>
+  <text x="108" y="196" fill="#F3F0E8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="56" font-weight="750" letter-spacing="1.5">ANDRZEJ MIKULSKI</text>
+  <text x="110" y="242" fill="#AEB7BC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="2">FOTOGRAF  ·  FOTOREPORTER  ·  AUTOR  ·  TWÓRCA</text>
+
+  <rect x="110" y="286" width="640" height="2" fill="url(#teal)"/>
+  <text x="110" y="330" fill="#D9D5CC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="1.2">PHOTOGRAPHY  /  BOOKS  /  AI AGENTS  /  ANDROID  /  MCP  /  RESEARCH</text>
+  <text x="110" y="372" fill="#7E8A90" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2.4">OBSERWUJĘ.  TWORZĘ.  EKSPERYMENTUJĘ.</text>
+
+  <g transform="translate(925 150)">
+    <circle cx="105" cy="70" r="92" fill="#070A0C" stroke="url(#gold)" stroke-width="2"/>
+    <text x="105" y="92" text-anchor="middle" fill="#E3C77F" font-family="Georgia,serif" font-size="70" font-weight="700">AM</text>
+    <path d="M40 125H170" stroke="#2D8E96" stroke-width="3"/>
+  </g>
+</svg>
