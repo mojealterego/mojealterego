@@ -8,7 +8,7 @@
 
 **Fotograf · fotoreporter · autor · twórca systemów i eksperymentów technologicznych**
 
-> **Obserwuję. Tworzę. Eksperymentuję.**  
+> **Obserwuję. Tworzę. Eksperymentuję.**<br>
 > Łączę obraz, narrację i technologię — od fotografii dokumentalnej i książek po AI, agentów, Androida i MCP.
 
 **[STRONA WWW](https://mojealterego.github.io/)** · **[REPOZYTORIA](https://github.com/mojealterego?tab=repositories)** · **[STATUSY PROJEKTÓW](./docs/PROJECT-STATUS.md)**
